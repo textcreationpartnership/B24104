@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here beginneth the second part of the fryer and the boy Many a merry jest herein is exprest.</title>
+            <title>Fryer and the boy. Part 2.</title>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24104</idno><idno type="EEBO-CITATION">99829166</idno>
+  <idno type="VID">207100</idno>
+  <idno type="EEBO-PROQUEST">2264210410</idno>
+  
+            <idno type="STC">Wing H1546C</idno>
+            <idno type="PROQUEST">99829166</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829166e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207100)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1989:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here beginneth the second part of the fryer and the boy Many a merry jest herein is exprest.</title>
+                  <title>Fryer and the boy. Part 2.</title>
+               </titleStmt>
+               <extent>[24] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed by A.M. and R.R. for Edward Brewster a[t] the Crane in St. Paul's Church-yard, and are to be sold by James Gilbertson next door to the Sun and Bible on London-bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With title page woodcut.</note>
+                  <note>Caption title on A3r reads: The second part of the Frier and the boy.</note>
+                  <note>In verse.</note>
+                  <note>Advertisement on verso of B4.</note>
+                  <note>Signatures: A B⁴; A1 is misbound, following B4.</note>
+                  <note>Imperfect; title page is cropped at head and side, affecting some print.</note>
+                  <note>Reproduction of the original in the Magdalene College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tales, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207100:1"/>
+            <pb facs="tcp:207100:1"/>
+            <p>Here beginneth The second Part of the <hi>FRYER</hi> and the <hi>BOY.</hi>
+            </p>
+            <q>
+               <l>Many a merry Jest</l>
+               <l>Herein is exprest.</l>
+            </q>
+            <figure>
+               <figDesc>depiction of friar and pipe-playing boy</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A.M.</hi> and <hi>R.R.</hi> for <hi>Edward Brewster</hi> the <hi>Crane</hi> in St. <hi>Pauls</hi> Church-yard, and are to be sold by <hi>James Gilbertson</hi> next door to the <hi>Sun</hi> and <hi>Bible</hi> on <hi>London-bridg,</hi> 1680.</p>
+            <pb facs="tcp:207100:2"/>
+            <figure>
+               <figDesc>depiction of friar and pipe-playing boy</figDesc>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:207100:2"/>
+            <head>The second Part of the FRIER and the BOY.</head>
+            <lg>
+               <l>LEt <hi>Venus</hi> fair that fits above,</l>
+               <l>And eke <hi>Cupid</hi> the God of Love,</l>
+               <l>and <hi>Pan</hi> assist withall;</l>
+            </lg>
+            <lg>
+               <l>And give true lovers each good thing,</l>
+               <l>Who listen to me when I sing,</l>
+               <l>let blessing them befall.</l>
+            </lg>
+            <lg>
+               <l>The story that I shall relate,</l>
+               <l>Is of a Youths unhappy fate,</l>
+               <l>and eke his Iests withall.</l>
+            </lg>
+            <lg>
+               <l>Some call'd him <hi>John,</hi> some call'd him <hi>Jack</hi>
+               </l>
+               <l>But sure he was a merry Crack,</l>
+               <l>and witty eke withall.</l>
+            </lg>
+            <lg>
+               <l>Then listen what I say to you,</l>
+               <l>And of these Lines come take a view:</l>
+               <l>they'l purge your melancholy.</l>
+            </lg>
+            <lg>
+               <l>Come laugh your fill and do not spare,</l>
+               <l>Let all that hears me laugh their share</l>
+               <l>come let's be blithe and jolly.</l>
+            </lg>
+            <pb facs="tcp:207100:3"/>
+            <lg>
+               <l>You oft have read that merry toy</l>
+               <l>Of the <hi>Fryer</hi> and the <hi>Boy,</hi>
+               </l>
+               <l>how sweetly he did play</l>
+            </lg>
+            <lg>
+               <l>Vpon a sweet and merry Pipe,</l>
+               <l>That made mens senses quick and ripe,</l>
+               <l>and dance both night and day.</l>
+            </lg>
+            <lg>
+               <l>And of his Step-dames cruelty,</l>
+               <l>And the report that she let fly,</l>
+               <l>and of the <hi>Fryers</hi> intent,</l>
+            </lg>
+            <lg>
+               <l>And of his dancing in the bush,</l>
+               <l>When that he went to catch the Thrush,</l>
+               <l>how all his Clothes were rent,</l>
+            </lg>
+            <lg>
+               <l>How every man start up and danc't,</l>
+               <l>Proctors, Priests and Sumners pranc't,</l>
+               <l>so long as they could stand.</l>
+            </lg>
+            <lg>
+               <l>All persons that this Pipe did hear,</l>
+               <l>Were fill'd with mirth and merry cheer,</l>
+               <l>all was at <hi>Jacks</hi> command.</l>
+            </lg>
+            <lg>
+               <l>His manly tricks I will recite,</l>
+               <l>Filled with mirth and much delight;</l>
+               <l>how he revenge did take,</l>
+            </lg>
+            <lg>
+               <l>Vpon <hi>Tobias</hi> that stout <hi>Fryer,</hi>
+               </l>
+               <l>And for his tricks gave him his hire,</l>
+               <l>himself amends to make.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Jack</hi> departed from his Step-dame,</l>
+               <l>And went to serve a Gentleman,</l>
+               <l>and pleas'd him wondrous well,</l>
+            </lg>
+            <lg>
+               <l>And with his maid he fell in love,</l>
+               <pb facs="tcp:207100:3"/>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ch unto him did faithless prove,</l>
+               <l>for truth as I here tell.</l>
+            </lg>
+            <p>
+               <figure>
+                  <figDesc>depiction of effect of pipe-playing</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>This <hi>Fryer</hi> us'd to her bed-side,</l>
+               <l>And did no more but up and ride;</l>
+               <l>all this poor <hi>Jack</hi> beheld;</l>
+            </lg>
+            <lg>
+               <l>This caus'd <hi>Jack</hi> her to despise,</l>
+               <l>To see her fall and the <hi>Fryer</hi> rise;</l>
+               <l>revenge in's heart then swell'd.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Venus</hi> and <hi>Cupid</hi> he implores,</l>
+               <l>The which all true lovers adores,</l>
+               <l>to grant him his request,</l>
+            </lg>
+            <lg>
+               <l>And <hi>Pan</hi> the Piper for to grant,</l>
+               <l>To help him play a new corant,</l>
+               <l>he held it to be best.</l>
+            </lg>
+            <pb facs="tcp:207100:4"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of effect of pipe-playing</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>Above you may behold and see,</l>
+               <l>How he is prostrate on his knee,</l>
+               <l>and in his hands a Cat;</l>
+            </lg>
+            <lg>
+               <l>Desiring that his love may turn</l>
+               <l>Into that shape, and ever mourn,</l>
+               <l>and catch both Mouse and Rat.</l>
+            </lg>
+            <lg>
+               <l>Go on and prosper <hi>Venus</hi> said,</l>
+               <l>Fall to thy sports, be not afraid</l>
+               <l>to use thy utmost skill.</l>
+            </lg>
+            <lg>
+               <l>I granted have thy full intent,</l>
+               <l>But see thou use't in merriment,</l>
+               <l>no blood of life to spill,</l>
+            </lg>
+            <lg>
+               <l>The <hi>Fryer</hi> he was kneeling there,</l>
+               <l>And when he these words did hear,</l>
+               <l>they pierc't him to the heart:</l>
+            </lg>
+            <lg>
+               <l>Now out alass the <hi>Fryer</hi> said,</l>
+               <l>I am in danger and afraid,</l>
+               <l>'tis I shall feel the smart.</l>
+            </lg>
+            <pb facs="tcp:207100:4"/>
+            <lg>
+               <l>Next night after he did spy</l>
+               <l>The <hi>Fryer</hi> in the maids bed to lye,</l>
+               <l>stark naked both they lay;</l>
+            </lg>
+            <lg>
+               <l>Then he pul'd out his Pipe and play'd,</l>
+               <l>And he like one that was afraid,</l>
+               <l>ran into the high way:</l>
+            </lg>
+            <lg>
+               <l>Both <hi>Fryer</hi> and maid leapt out o'th bed,</l>
+               <l>The <hi>Fryer</hi> fell down and broke his head,</l>
+               <l>thus danc't into the street;</l>
+            </lg>
+            <lg>
+               <l>Both old and young, both rich and poor,</l>
+               <l>Some out at window some, at door,</l>
+               <l>laughing each other greet.</l>
+            </lg>
+            <p>
+               <figure>
+                  <figDesc>depiction of effect of pipe-playing: nakedness, cavorting animals</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>The Cattel hearing of the same,</l>
+               <pb facs="tcp:207100:5"/>
+               <l>Straightway from their pastures came,</l>
+               <l>and merrily did dance;</l>
+            </lg>
+            <lg>
+               <l>The horses that most fast were <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>'d</l>
+               <l>Came galloping on every side,</l>
+               <l>and stately they did prance;</l>
+            </lg>
+            <lg>
+               <l>Also the swine aloud did cry,</l>
+               <l>And presently pull'd down their <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ty,</l>
+               <l>and these full high did capor,</l>
+            </lg>
+            <lg>
+               <l>Also the Bears began to roar,</l>
+               <l>And presently the stable tore,</l>
+               <l>they altogether vapor.</l>
+            </lg>
+            <lg>
+               <l>Like wild the Cats came dancing in,</l>
+               <l>Each one of them did youl and grin,</l>
+               <l>and made such harmony;</l>
+            </lg>
+            <lg>
+               <l>The Dogs came skipping and did houl,</l>
+               <l>Also much store of feather'd foul,</l>
+               <l>they danc't prodigously;</l>
+            </lg>
+            <lg>
+               <l>Also the Goats hearing the same,</l>
+               <l>From the mountains skipping came,</l>
+               <l>and knock't their horns together.</l>
+            </lg>
+            <lg>
+               <l>Their clattering horns made such a noise,</l>
+               <l>No man could hear each others voice,</l>
+               <l>like wind and stormy weather;</l>
+            </lg>
+            <lg>
+               <l>Mean while a mighty storm did rise,</l>
+               <l>And darksome clouds made dark the skys,</l>
+               <l>snow, rain and hail together;</l>
+            </lg>
+            <lg>
+               <l>Which did so supple their joynts,</l>
+               <l>Made many of them untruss their points,</l>
+               <pb facs="tcp:207100:5"/>
+               <l>in spight of wind and weather,</l>
+            </lg>
+            <lg>
+               <l>At this sight all men did muse</l>
+               <l>That stood on hills, how could they chuse?</l>
+               <l>but none durst come them near;</l>
+            </lg>
+            <lg>
+               <l>Thinking both men and cattel mad,</l>
+               <l>This made the Countrey-men full sad,</l>
+               <l>and run away for fear,</l>
+            </lg>
+            <lg>
+               <l>But one more wiser than the rest,</l>
+               <l>Remembring the former jest,</l>
+               <l>with wool stopt both his ears,</l>
+            </lg>
+            <lg>
+               <l>And whilst <hi>Jack</hi> did pipe aloud,</l>
+               <l>The old man prest into the croud,</l>
+               <l>as one quite void of fears,</l>
+            </lg>
+            <lg>
+               <l>And from him snacth't his pipe away;</l>
+               <l>
+                  <hi>Fryer</hi> take the pipe, thus did he say,</l>
+               <l>I give it unto thee,</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Jack</hi> said, <hi>Fryer</hi> give to me my pipe,</l>
+               <l>Or it shall cost thee many a stripe,</l>
+               <l>assured shalt thou be:</l>
+            </lg>
+            <lg>
+               <l>Thy pipe he said thou shalt not have,</l>
+               <l>For thou art an unlucky knave,</l>
+               <l>I know unto my sorrow;</l>
+            </lg>
+            <lg>
+               <l>Seest thou not how we are tir'd,</l>
+               <l>We never yet the pipe desir'd,</l>
+               <l>call thou again to morrow.</l>
+            </lg>
+            <lg>
+               <l>At this the rabble did still stand,</l>
+               <l>And those that danced hand in hand,</l>
+               <l>the <hi>Fryer</hi> and the maid.</l>
+            </lg>
+            <pb facs="tcp:207100:6"/>
+            <lg>
+               <l>Every one at them did scoff,</l>
+               <l>To see them naked and clothes off,</l>
+               <l>how they were both betray'd.</l>
+            </lg>
+            <lg>
+               <l>But <hi>Jack</hi> he knew not what to say,</l>
+               <l>Because his pipe was ta'ne away,</l>
+               <l>this made him very sad:</l>
+            </lg>
+            <lg>
+               <l>He vow'd revenged for to be,</l>
+               <l>Or else hew down the <hi>Fryers</hi> best tree,</l>
+               <l>the best fruit-tree he had:</l>
+            </lg>
+            <lg>
+               <l>And as you shall understand,</l>
+               <l>A fair wood-ax was near at hand,</l>
+               <l>to felling straight he went;</l>
+            </lg>
+            <lg>
+               <l>The <hi>Fryer</hi> hearing of the sound,</l>
+               <l>He straightway came into the ground,</l>
+               <l>to know <hi>Jacks</hi> full intent;</l>
+            </lg>
+            <lg>
+               <l>The <hi>Fryer</hi> he began to threat,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow evilly <hi>Jack</hi> he would intreat,</l>
+               <l>said surely he should dye:</l>
+            </lg>
+            <lg>
+               <l>Not so, <hi>Tobias,</hi> said the youth,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hope you do not now speak truth,</l>
+               <l>
+                  <hi>peccavi</hi> I do cry.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>h good <hi>Tobias</hi> then he said,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>onder's a troup makes me afraid:</l>
+               <l>the <hi>Fryer</hi> turn'd him round;</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ck</hi> over his head did cast a line,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hich about his arms did twine,</l>
+               <l>and to a tree him bound.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>cks</hi> senses then was quick and ripe,</l>
+               <pb facs="tcp:207100:6"/>
+               <l>And from the <hi>Fryer</hi> he took his pipe,</l>
+               <l>and made him sing a mass;</l>
+            </lg>
+            <lg>
+               <l>His Leman hearing of the noise,</l>
+               <l>And knowing well the <hi>Fryers</hi> voice,</l>
+               <l>came like a loving lass;</l>
+            </lg>
+            <lg>
+               <l>Belly to belly he did them tye,</l>
+               <l>Both fast to th' tree assuredly,</l>
+               <l>and then his pipe 'gan play;</l>
+            </lg>
+            <lg>
+               <l>The <hi>Fryer</hi> then knockt the tree amain.</l>
+               <l>So that the blood ran down again,</l>
+               <l>cry'd <hi>Jack</hi> I pray the stay.</l>
+            </lg>
+            <lg>
+               <l>Betwixt the <hi>Fryer</hi> and his lass,</l>
+               <l>Such a jumbling then there was,</l>
+               <l>the like was never seen;</l>
+            </lg>
+            <lg>
+               <l>The blood ran down on every side,</l>
+               <l>Our bones are broken they both cry'd,</l>
+               <l>against this tree so green:</l>
+            </lg>
+            <lg>
+               <l>But <hi>Jack</hi> so left them in this sort,</l>
+               <l>And bids them take their fills of sport,</l>
+               <l>said thus, I you befriend.</l>
+            </lg>
+            <lg>
+               <l>He straight repair'd unto the town,</l>
+               <l>And unto them full many a clown,</l>
+               <l>did thither quickly send;</l>
+            </lg>
+            <lg>
+               <l>Which when they came, did laugh amain,</l>
+               <l>To see the <hi>Fryer</hi> and's lass half slain;</l>
+               <l>thou holy <hi>Fryer</hi> they said,</l>
+            </lg>
+            <lg>
+               <l>Dost thou love the flesh so well,</l>
+               <l>That this gay tree thou mean'st to fell,</l>
+               <pb facs="tcp:207100:7"/>
+               <l>and kill this comely maid.</l>
+            </lg>
+            <lg>
+               <l>Long after this good <hi>Tobias</hi>
+               </l>
+               <l>Would needs go preach where <hi>Jack</hi> was,</l>
+               <l>and thither he doth weand;</l>
+            </lg>
+            <lg>
+               <l>The serving-men with wine him ply,</l>
+               <l>Before he doth ascend on high,</l>
+               <l>their kindness to commend.</l>
+            </lg>
+            <lg>
+               <l>He sate by th' fire, as it is said,</l>
+               <l>And's book upon the dresser laid;</l>
+               <l>
+                  <hi>Jack</hi> stole away his notes.</l>
+            </lg>
+            <lg>
+               <l>When that he began to preach,</l>
+               <l>His notes were all out of his reach,</l>
+               <l>he can prove nothing he quotes:</l>
+            </lg>
+            <lg>
+               <l>From pulpit straight then he came down,</l>
+               <l>Like unto a block-headed clown,</l>
+               <l>and nought could say at all:</l>
+            </lg>
+            <lg>
+               <l>The people then laught him to scorn;</l>
+               <l>This made the <hi>Fryer</hi> to seem forlorn,</l>
+               <l>for pardon he did call.</l>
+            </lg>
+            <lg>
+               <l>It fell out on a holyday,</l>
+               <l>
+                  <hi>Tobias</hi> went to th' kirk to pray,</l>
+               <l>having drank ale and wine:</l>
+            </lg>
+            <lg>
+               <l>Having sung mass he was to preach,</l>
+               <l>And his towns-men he would teach.</l>
+               <l>how they should be divine.</l>
+            </lg>
+            <lg>
+               <l>A long psalm he then did call.</l>
+               <l>The hundred and nineteenth all,</l>
+               <l>good order for to keep</l>
+            </lg>
+            <pb facs="tcp:207100:7"/>
+            <lg>
+               <l>The Clerk aloud the same did cry;</l>
+               <l>The people made such harmony,</l>
+               <l>the <hi>Fryer</hi> fell fast asleep:</l>
+            </lg>
+            <lg>
+               <l>And having sung a full large hour,</l>
+               <l>The <hi>Fryer</hi> to wake had not the power,</l>
+               <l>they sung so merry a strain.</l>
+            </lg>
+            <lg>
+               <l>The people thought he had been dead,</l>
+               <l>And that life from him was fled;</l>
+               <l>they sate amazed then.</l>
+            </lg>
+            <lg>
+               <l>The sexton took him by the arm,</l>
+               <l>And shook him, but did him no harm,</l>
+               <l>so that he did him maze.</l>
+            </lg>
+            <lg>
+               <l>The glass is out the sexton cry'd,</l>
+               <l>The worse for me rhe <hi>Fryer</hi> reply'd,</l>
+               <l>fill't round again straight wayes:</l>
+            </lg>
+            <lg>
+               <l>The <hi>Fryer</hi> remembring of the house,</l>
+               <l>Where that morn he did carouse,</l>
+               <l>cry'd with a merry strain;</l>
+            </lg>
+            <lg>
+               <l>All persons that do sit or stand,</l>
+               <l>Obey my words, I you command,</l>
+               <l>fill all the pots again,</l>
+            </lg>
+            <lg>
+               <l>Then start up that jovel croud,</l>
+               <l>And every one laught out aloud:</l>
+               <l>some to <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>selves did mumble:</l>
+            </lg>
+            <lg>
+               <l>Some over the pews did skip,</l>
+               <l>And some over the forms did trip;</l>
+               <l>they altogether tumble:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Jack</hi> he first goes out o'th door,</l>
+               <pb facs="tcp:207100:8"/>
+               <l>And doth run the croud before,</l>
+               <l>and then with pipe aloud,</l>
+            </lg>
+            <lg>
+               <l>He leads them straight unto a green,</l>
+               <l>Where all at once were dancing seen,</l>
+               <l>a mighty mixed croud:</l>
+            </lg>
+            <p>
+               <figure>
+                  <figDesc>depiction of effect of pipe-playing: general capering</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ch man did take a married wife,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d danced about for love and life;</l>
+               <l>fine pastime to behold:</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ch batchelor did take his maid,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d nimbly pranc'd as it is said,</l>
+               <l>so long as breath did hold.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ttle children did dance a round,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> if their feet could feel no ground,</l>
+               <pb facs="tcp:207100:8"/>
+               <l>rare pastime they did make;</l>
+            </lg>
+            <lg>
+               <l>Also the lame that could not go,</l>
+               <l>Did then the art of footing know,</l>
+               <l>and lameness did forsake.</l>
+            </lg>
+            <lg>
+               <l>The Fryer had left his pulpit, and</l>
+               <l>Did dance as long as he could stand,</l>
+               <l>amongst the jovial crew;</l>
+            </lg>
+            <lg>
+               <l>The Officers that liv'd about,</l>
+               <l>Came for to view this merry rout,</l>
+               <l>and of them took a view.</l>
+            </lg>
+            <lg>
+               <l>And as I bear, the truth to tell,</l>
+               <l>The officers to dancing fell,</l>
+               <l>and call'd upon the Fryer,</l>
+            </lg>
+            <lg>
+               <l>That he some merry song should sing,</l>
+               <l>As they were dancing in the ring,</l>
+               <l>which he us'd in the Quire.</l>
+            </lg>
+            <lg>
+               <l>The Fryer rais'd his voice so high,</l>
+               <l>And all the people, verily,</l>
+               <l>strange ecchoes did rebound,</l>
+            </lg>
+            <lg>
+               <l>Their singing was exceeding rare,</l>
+               <l>Their voices sounded in the air</l>
+               <l>even from sky to ground.</l>
+            </lg>
+            <lg>
+               <l>The officers protested then,</l>
+               <l>As they were all living men,</l>
+               <l>the piper he should dye,</l>
+            </lg>
+            <lg>
+               <l>Except the boy had so much wit,</l>
+               <l>Presently from that place to flit,</l>
+               <l>his liberty to buy.</l>
+            </lg>
+            <pb facs="tcp:207100:9"/>
+            <lg>
+               <l>The piper he start up as then,</l>
+               <l>And spake both unto maids and men,</l>
+               <l>and loud to them did hollow:</l>
+            </lg>
+            <lg>
+               <l>Now I'le play you the wild-goose-chase,</l>
+               <l>See that you follow me apace:</l>
+               <l>so he plaid, follow, follow.</l>
+            </lg>
+            <lg>
+               <l>So all at once aloud did sing,</l>
+               <l>And danc'd in ranks, files and ring,</l>
+               <l>into the woods so fair:</l>
+            </lg>
+            <lg>
+               <l>The officers did then protest,</l>
+               <l>If <hi>Jack</hi> would let them take some rest,</l>
+               <l>better that he should fare.</l>
+            </lg>
+            <lg>
+               <l>Peace, said the Fryer, I do thee charm;</l>
+               <l>See that thou do us no more harm,</l>
+               <l>for we all weary be:</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Jack</hi> unto them did protest,</l>
+               <l>He freely gave them leave to rest,</l>
+               <l>and from dancing let them free.</l>
+            </lg>
+            <lg>
+               <l>Then had they some merry chat,</l>
+               <l>Some talkt of this, and some of that,</l>
+               <l>and some wry faces make:</l>
+            </lg>
+            <lg>
+               <l>Some laught till they were almost brast,</l>
+               <l>And some did hold their sides full fast,</l>
+               <l>because they sore did ake.</l>
+            </lg>
+            <lg>
+               <l>The Fryer complained of his fate,</l>
+               <l>And to the officers did prate,</l>
+               <l>of this unhappy lad:</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rotesting then assuredly,</l>
+               <pb facs="tcp:207100:9"/>
+               <l>That of that surfeit he should dye,</l>
+               <l>if no redress he had.</l>
+            </lg>
+            <lg>
+               <l>The officers said surely we,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the Fryers side must be,</l>
+               <l>or else wee'st fare full ill.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood officers then said the Fryer,</l>
+               <l>I will complain unto the Prior,</l>
+               <l>that he this rogue may kill.</l>
+            </lg>
+            <lg>
+               <l>The Fryer with's heart full of care,</l>
+               <l>Straight to the Abby doth repair,</l>
+               <l>and falls upon his knee▪</l>
+            </lg>
+            <lg>
+               <l>My Lord some pity on me take,</l>
+               <l>Then for our Ladies sake,</l>
+               <l>revenged let me be.</l>
+            </lg>
+            <lg>
+               <l>There is a youth in our precinct,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lord I'le tell you as I think,</l>
+               <l>the like hath never been:</l>
+            </lg>
+            <lg>
+               <l>He hath a pipe assuredly,</l>
+               <l>Will make men dance and caper high,</l>
+               <l>the like was never seen.</l>
+            </lg>
+            <lg>
+               <l>Then said the Prior, fain would I see,</l>
+               <l>The thing that thou hast told to me,</l>
+               <l>it must be passing trim.</l>
+            </lg>
+            <lg>
+               <l>Heavens forbid then said the Fryer,</l>
+               <l>Pray let me from this place retire,</l>
+               <l>if that you will hear him.</l>
+            </lg>
+            <lg>
+               <l>The Prior did all the Fryers command,</l>
+               <l>Before him presently to stand,</l>
+               <pb facs="tcp:207100:10"/>
+               <l>a Court there he did hold,</l>
+            </lg>
+            <lg>
+               <l>He for the Prioress did call,</l>
+               <l>And all the Nuns both great and small,</l>
+               <l>his mind for to unfold.</l>
+            </lg>
+            <lg>
+               <l>He summoned all sorts of Monks,</l>
+               <l>The Dunces, and the famous Punks,</l>
+               <l>unto him to repair:</l>
+            </lg>
+            <lg>
+               <l>For many others then he sent,</l>
+               <l>Declaring of his full intent,</l>
+               <l>and of his prudent care.</l>
+            </lg>
+            <lg>
+               <l>Then gave he <hi>Tobias</hi> charge,</l>
+               <l>And commission very large,</l>
+               <l>to bring <hi>Jack</hi> him before;</l>
+            </lg>
+            <lg>
+               <l>Then took he a mighty guard,</l>
+               <l>Promising a great reward,</l>
+               <l>of gold and silver store.</l>
+            </lg>
+            <lg>
+               <l>They brought <hi>Jack</hi> before the Prior,</l>
+               <l>With <hi>Tobias</hi> the dancing Fryer,</l>
+               <l>which to him did complain:</l>
+            </lg>
+            <lg>
+               <l>My Lord, this boy is very base,</l>
+               <l>I wish your Lordship would him chase,</l>
+               <l>revenge I might attain.</l>
+            </lg>
+            <lg>
+               <l>The Prior said, let me hear the sound</l>
+               <l>Of this same pipe that's newly found,</l>
+               <l>what musick it can make?</l>
+            </lg>
+            <lg>
+               <l>Heavens forbid then said the Fryer,</l>
+               <l>That ever I should hear that lire▪</l>
+               <l>some pity on me take:</l>
+            </lg>
+            <pb facs="tcp:207100:10"/>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y hands and feet together bind,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>th before, and eke behind,</l>
+               <l>so that I may not move.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey bound him in his gown and cope,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith a strong and trusty rope,</l>
+               <l>the effect ot'h pipe to prove.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ipe on my son then said the Prior,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd likewise so said every Fryer,</l>
+               <l>let's hear thy melody.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen <hi>Jack</hi> his pipe then did advance,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll the Fryers began to dance,</l>
+               <l>the Prior capered high.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>me Prioress nimbly trac'd the ground,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd all her Nuns did dance her round,</l>
+               <l>brave pastime to behold.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Nun that with a Fryer did lye,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame skipping in immediately</l>
+               <l>clad in a Fryers coul.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Fryer it'h Nun's attire was seen,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich did declare where they had been,</l>
+               <l>appearing in this sort.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he cook came dancing with his spit,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d as he danc't the Fryers hit,</l>
+               <l>which added to the sport.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he scullion with his dripping-pan,</l>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame dancing in like any man:</l>
+               <l>and as he turned round,</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e hit the Fryers upon the face,</l>
+               <pb facs="tcp:207100:11"/>
+               <l>As he round about did trace;</l>
+               <l>then tumbled on the ground,</l>
+            </lg>
+            <lg>
+               <l>The Fryer that did lye fast bound,</l>
+               <l>Lay wallowing upon the ground,</l>
+               <l>and beat against the stones:</l>
+            </lg>
+            <lg>
+               <l>And many a crack he did let fly,</l>
+               <l>Which did amaze the company.</l>
+               <l>he almost burst his bones.</l>
+            </lg>
+            <lg>
+               <l>The Prior and dame Prioress,</l>
+               <l>As they still danc'd, they still did kiss,</l>
+               <l>as they danc'd in the hall.</l>
+            </lg>
+            <lg>
+               <l>The Prior he lightly leapt about,</l>
+               <l>Pearking his legs now in, now out,</l>
+               <l>and so catcht many a fall.</l>
+            </lg>
+            <lg>
+               <l>The Fryers all like hare-brain'd fools.</l>
+               <l>Leapt over tables and ore stools,</l>
+               <l>and also brake their shins.</l>
+            </lg>
+            <lg>
+               <l>In heaps they roul upon the ground,</l>
+               <l>Whilst that <hi>Jacks</hi> musick it doth found,</l>
+               <l>and burst their face and shins,</l>
+            </lg>
+            <lg>
+               <l>The Prior with dancing was so sore,</l>
+               <l>That he said boy do thou give ore,</l>
+               <l>thou shalt receive no harm:</l>
+            </lg>
+            <lg>
+               <l>No man shall do thee any wrong,</l>
+               <l>Neither with his hand nor tongue,</l>
+               <l>so well I will them charm.</l>
+            </lg>
+            <lg>
+               <l>My Lord, said he, you have your will,</l>
+               <l>I will forbear; they all stood still,</l>
+               <pb facs="tcp:207100:11"/>
+               <l>some laugh, and some do rage;</l>
+            </lg>
+            <lg>
+               <l>Some weary, to the ground do fall,</l>
+               <l>Some lean their backs against the wall,</l>
+               <l>their laughing to asswage.</l>
+            </lg>
+            <lg>
+               <l>Thus was he from the Abby sent,</l>
+               <l>The Fryers and Nuns had all content,</l>
+               <l>he had a great reward:</l>
+            </lg>
+            <lg>
+               <l>Their grief of heart he did asswage,</l>
+               <l>And also did appease their rage,</l>
+               <l>the Prior did him regard.</l>
+            </lg>
+            <lg>
+               <l>Then homewards straight he did repair,</l>
+               <l>Singing, hey hoe, away the mare,</l>
+               <l>still piping as he went:</l>
+            </lg>
+            <lg>
+               <l>A crew of labourers he meets,</l>
+               <l>As they marcht home along the streets,</l>
+               <l>they wondred what he meant:</l>
+            </lg>
+            <lg>
+               <l>Then straight to dancing all they fell,</l>
+               <l>The reason why they could not tell,</l>
+               <l>with pick-axes and spades:</l>
+            </lg>
+            <lg>
+               <l>They swung the same about their heads,</l>
+               <l>As if they had been feather-beds;</l>
+               <l>they pranct like merry blades.</l>
+            </lg>
+            <lg>
+               <l>Some oyster-women passing by,</l>
+               <l>And hearing of this harmony,</l>
+               <l>thrust in amongst the throng:</l>
+            </lg>
+            <lg>
+               <l>The labourers to fighting fell,</l>
+               <l>The women spar'd them never a deal:</l>
+               <l>they scorned to take wrong,</l>
+            </lg>
+            <pb facs="tcp:207100:12"/>
+            <lg>
+               <l>Till some officers came by,</l>
+               <l>And parted them immediately:</l>
+               <l>thus I conclude my song.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Books Printed for <hi>Edward Brewst<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> at the <hi>Crane</hi> in St. <hi>Pauls</hi> Churc<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>yard, 1680.</head>
+            <list>
+               <item>The Famous History of <hi>Guy</hi> Earl <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>Warwick.</hi>
+               </item>
+               <item>The most Delectable History of <hi>R<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>nard</hi> the <hi>Fox,</hi> both parts, with ma<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> others, <hi>&amp;c.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:207100:12"/>
+            <p>
+               <figure>
+                  <figDesc>section of frieze [unrelated to this text?]</figDesc>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
